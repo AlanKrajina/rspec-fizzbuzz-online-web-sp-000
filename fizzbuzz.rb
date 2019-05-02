@@ -3,7 +3,6 @@
 
 def fizzbuzz(numb)
   if numb % 3 == 0
-<<<<<<< HEAD
   return "Fizz"
   
     elsif numb % 5 == 0
@@ -15,7 +14,4 @@ def fizzbuzz(numb)
         else
           return nil
   end
-=======
-    return "Fizz"
->>>>>>> 41cb7d2b3fec7761d08eb8518fc666a1671c9a76
 end
